@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kutalmisoruc
-- 👀 I’m interested in flutter and java
+- 👀 I’m interested in flutter,java and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
