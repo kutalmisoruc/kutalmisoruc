@@ -8,7 +8,7 @@ Backend Software Engineer specializing in building scalable enterprise systems a
 * ⚡ **Motto:** Built in silence.
 
 ### 🛠️ Tech Stack
-* **Backend:** Java, Spring Boot, Oracle DB
+* **Backend:** Java, Spring Boot, Oracle DB, PostgreSQL
 * **Mobile:** Flutter / Dart
 * **Integrations:** API Gateways, Enterprise Service Bus (ESB)
 
